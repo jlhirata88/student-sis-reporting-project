@@ -128,3 +128,15 @@ python export_reports.py
 ```
 
 6. Review exported reports inside the `outputs/` folder
+
+## Future Enhancements
+
+Potential future improvements for this project include:
+
+- Dashboard-style reporting visualizations
+- Automated scheduled report generation
+- Additional student performance analytics
+- Expanded transcript reporting
+- Web-based reporting interface
+- Role-based access simulation
+- Additional integration validation scenarios
