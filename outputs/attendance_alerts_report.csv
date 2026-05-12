@@ -1,0 +1,19 @@
+StudentID,FirstName,LastName,CourseName,DaysPresent,DaysAbsent,AttendanceRate
+4,Noah,Brown,Algebra II,35,13,72.92
+4,Noah,Brown,Algebra II,35,13,72.92
+9,James,Thomas,US History,36,12,75.0
+9,James,Thomas,US History,36,12,75.0
+4,Noah,Brown,Biology,37,11,77.08
+4,Noah,Brown,Biology,37,11,77.08
+2,Liam,Johnson,Algebra II,38,10,79.17
+2,Liam,Johnson,Algebra II,38,10,79.17
+6,Sophia,Wilson,Algebra II,39,9,81.25
+6,Sophia,Wilson,Algebra II,39,9,81.25
+2,Liam,Johnson,Biology,40,8,83.33
+2,Liam,Johnson,Biology,40,8,83.33
+8,Isabella,Anderson,English II,41,7,85.42
+8,Isabella,Anderson,English II,41,7,85.42
+5,Ava,Davis,US History,42,6,87.5
+5,Ava,Davis,US History,42,6,87.5
+5,Ava,Davis,English II,43,5,89.58
+5,Ava,Davis,English II,43,5,89.58
