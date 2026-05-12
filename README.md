@@ -1,5 +1,17 @@
 # Student Information System Reporting & Validation Project
 
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Technologies Used](#technologies-used)
+- [Skills Demonstrated](#skills-demonstrated)
+- [Business Scenarios](#business-scenarios)
+- [Project Structure](#project-structure)
+- [Example Reports](#example-reports)
+- [Data Validation & Integration Scenario](#data-validation--integration-scenario)
+- [How to Run](#how-to-run)
+- [Future Enhancements](#future-enhancements)
+
 ## Project Overview
 
 This project simulates a small K-12 Student Information System reporting environment using SQL Server, T-SQL, Python, and GitHub.
